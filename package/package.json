@@ -1,0 +1,23 @@
+{
+  "name": "dependency-graph-builder",
+  "version": "1.0.1",
+  "description": "builds dependency graph by using the bundled webpack file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aatifhsn/Dependency-graph"
+  },
+  "keywords": [
+    "AATIFHSN"
+  ],
+  "author": "Aatif",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.87.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-stats-plugin": "^1.1.3"
+  }
+}
